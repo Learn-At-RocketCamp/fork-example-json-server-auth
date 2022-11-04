@@ -2,7 +2,16 @@
 
 ## TODO
 
+
+
+- [ ] 測試部屬
+  - [ ] `Heroku`
+
+
+
 - [ ] `CKEditor` 編輯器還吃不到圖片
+  
+  
 
 ## PAGES
 
@@ -26,11 +35,13 @@
 - 【後台首頁】：`/admin/index.html`
 
 - 【註冊】：`/admin/signup.html`
+
 - 【登入】：`/admin/login.html`
 
 - 【主控台】：`/admin/desk.html`
 
 - 【新增文章】：`/admin/posts/create.html`
+
 - 【編輯文章】：`/admin/posts/editor.html`
 
 ---
@@ -42,6 +53,7 @@
 - 【使用者系列】：`/api/users`
 
 - 【權限】
+  
   - 註冊：`/signup`
   - 登入：`/login`
 
@@ -72,11 +84,11 @@
 ## 預備知識
 
 - VSCode
-
+  
   - `Live Server`
 
 - 終端機
-
+  
   - 指令
 
 - NPM
@@ -147,10 +159,11 @@ http://localhost:3000/
 - 【版本】：已合併 `JSON-server`、`JSON-Server-auth`
 
 - 【初始版本】：commit `fefeb0580b`
-
+  
   - 由 `CodeSandbox` 的 `JSON-SERVER-STARTER` 修改而來
 
 - 原版網頁移動至 `<public>/<example>` 底下
+  
   - 原版資料集：`<data>/sample.json`
 
 ---
@@ -195,7 +208,7 @@ http://localhost:3000/
 > 跳過編譯工具，先全部使用 `CDN` 匯入
 
 - Bootstrap5
-
+  
   - CSS
   - JS
 
@@ -206,22 +219,23 @@ http://localhost:3000/
 #### Bootstrap5
 
 - 版型來源：
-
+  
   - <https://bootstrap5.hexschool.com/docs/5.1/examples/sticky-footer-navbar/>
 
 - 首頁卡片列表：
-
+  
   - <https://bootstrap5.hexschool.com/docs/5.1/components/card/>
 
 - 後台入口：
-
+  
   - <https://bootstrap5.hexschool.com/docs/5.1/forms/form-control/>
 
 - 儀錶板表格：
-
+  
   - <https://bootstrap5.hexschool.com/docs/5.1/content/tables/>
 
 - 按鈕：
+  
   - <https://bootstrap5.hexschool.com/docs/5.1/components/buttons/>
 
 ---
